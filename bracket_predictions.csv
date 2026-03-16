@@ -1,0 +1,64 @@
+round,region,team_a,team_b,predicted_winner,win_probability
+First Round,Fort Worth 1,UConn,UTSA,UConn,96.6%
+First Round,Fort Worth 1,Iowa State,Syracuse,Iowa State,59.8%
+First Round,Fort Worth 1,Maryland,Murray State,Maryland,64.6%
+First Round,Fort Worth 1,North Carolina,Western Illinois,North Carolina,81.8%
+First Round,Fort Worth 1,Notre Dame,Fairfield,Notre Dame,66.4%
+First Round,Fort Worth 1,Ohio State,Howard,Ohio State,91.8%
+First Round,Fort Worth 1,Illinois,Colorado,Illinois,52.7%
+First Round,Fort Worth 1,Vanderbilt,High Point,Vanderbilt,87.7%
+Sweet 16,Fort Worth 1,UConn,Iowa State,UConn,82.3%
+Sweet 16,Fort Worth 1,Maryland,North Carolina,North Carolina,55.8%
+Sweet 16,Fort Worth 1,Notre Dame,Ohio State,Ohio State,63.4%
+Sweet 16,Fort Worth 1,Illinois,Vanderbilt,Vanderbilt,72.7%
+Elite 8,Fort Worth 1,UConn,North Carolina,UConn,74.8%
+Elite 8,Fort Worth 1,Ohio State,Vanderbilt,Vanderbilt,53.3%
+Region Champion,Fort Worth 1,UConn,Vanderbilt,UConn,67.6%
+First Round,Sacramento 2,South Carolina,Southern U/Samford,South Carolina,97.1%
+First Round,Sacramento 2,Clemson,Southern California,Clemson,60.0%
+First Round,Sacramento 2,Michigan State,Colorado State,Michigan State,63.5%
+First Round,Sacramento 2,Oklahoma,Idaho,Oklahoma,80.3%
+First Round,Sacramento 2,Washington,South Dakota State,Washington,61.1%
+First Round,Sacramento 2,TCU,UC San Diego,TCU,87.1%
+First Round,Sacramento 2,Georgia,Virginia/Arizona St,Georgia,57.9%
+First Round,Sacramento 2,Iowa,FDU,Iowa,90.4%
+Sweet 16,Sacramento 2,South Carolina,Clemson,South Carolina,83.3%
+Sweet 16,Sacramento 2,Michigan State,Oklahoma,Oklahoma,57.9%
+Sweet 16,Sacramento 2,Washington,TCU,TCU,67.4%
+Sweet 16,Sacramento 2,Georgia,Iowa,Iowa,72.7%
+Elite 8,Sacramento 2,South Carolina,Oklahoma,South Carolina,72.1%
+Elite 8,Sacramento 2,TCU,Iowa,Iowa,54.7%
+Region Champion,Sacramento 2,South Carolina,Iowa,South Carolina,63.2%
+First Round,Fort Worth 3,Texas,Missouri St/SFA,Texas,96.1%
+First Round,Fort Worth 3,Oregon,Virginia Tech,Oregon,56.4%
+First Round,Fort Worth 3,Kentucky,James Madison,Kentucky,68.7%
+First Round,Fort Worth 3,West Virginia,Miami (OH),West Virginia,80.2%
+First Round,Fort Worth 3,Alabama,Rhode Island,Alabama,64.0%
+First Round,Fort Worth 3,Louisville,Vermont,Louisville,86.6%
+First Round,Fort Worth 3,NC State,Tennessee,NC State,56.4%
+First Round,Fort Worth 3,Michigan,Holy Cross,Michigan,93.2%
+Sweet 16,Fort Worth 3,Texas,Oregon,Texas,81.1%
+Sweet 16,Fort Worth 3,Kentucky,West Virginia,West Virginia,57.9%
+Sweet 16,Fort Worth 3,Alabama,Louisville,Louisville,67.0%
+Sweet 16,Fort Worth 3,NC State,Michigan,Michigan,77.6%
+Elite 8,Fort Worth 3,Texas,West Virginia,Texas,69.1%
+Elite 8,Fort Worth 3,Louisville,Michigan,Michigan,55.6%
+Region Champion,Fort Worth 3,Texas,Michigan,Texas,58.6%
+First Round,Sacramento 4,UCLA,California Baptist,UCLA,96.3%
+First Round,Sacramento 4,Oklahoma State,Princeton,Oklahoma State,58.5%
+First Round,Sacramento 4,Ole Miss,Gonzaga,Ole Miss,64.2%
+First Round,Sacramento 4,Minnesota,Green Bay,Minnesota,80.7%
+First Round,Sacramento 4,Baylor,Nebraska/Richmond,Baylor,66.3%
+First Round,Sacramento 4,Duke,Col. of Charleston,Duke,87.0%
+First Round,Sacramento 4,Texas Tech,Villanova,Texas Tech,57.4%
+First Round,Sacramento 4,LSU,Jacksonville,LSU,90.3%
+Sweet 16,Sacramento 4,UCLA,Oklahoma State,UCLA,83.3%
+Sweet 16,Sacramento 4,Ole Miss,Minnesota,Minnesota,59.5%
+Sweet 16,Sacramento 4,Baylor,Duke,Duke,67.0%
+Sweet 16,Sacramento 4,Texas Tech,LSU,LSU,75.6%
+Elite 8,Sacramento 4,UCLA,Minnesota,UCLA,74.3%
+Elite 8,Sacramento 4,Duke,LSU,LSU,53.1%
+Region Champion,Sacramento 4,UCLA,LSU,UCLA,64.3%
+Final Four SF1,Final Four,UConn,South Carolina,UConn,52.3%
+Final Four SF2,Final Four,Texas,UCLA,UCLA,55.6%
+Championship,Final,UConn,UCLA,UCLA,50.4%
